@@ -1,6 +1,6 @@
 # JAVASCRIPT : QUIZ EFFECT
 
-![quiz01](https://github.com/YeoDaSeul4355/QuizEffect/assets/125419623/81d5e5f6-c848-4ba7-853d-8821fe58f03a)
+![quiz01](https://raw.githubusercontent.com/kebab000/QuizEffect2023/main/img/quizEffect.png)
 
 <br><br>
 
